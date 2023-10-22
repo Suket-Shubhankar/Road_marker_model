@@ -32,5 +32,19 @@ The model is set up to be used with Cog, enabling easy and streamlined deploymen
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Suket-Shubhankar/Road_marker_model
+cd Road_marker_model
+```
+
+2. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run predictions using Cog:
+
+```bash
+cog predict -i <path-to-input-image>
+```
+
