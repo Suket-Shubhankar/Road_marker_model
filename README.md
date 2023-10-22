@@ -2,6 +2,10 @@
 
 The "Road Marker Model" project leverages deep learning to detect and mark roads in given images. The model is designed using PyTorch and is made available for inference using the [Cog](https://github.com/replicate/cog) framework.
 
+## Hosted Model on Replicate
+
+You can access the hosted version of the Road Marker Model on Replicate at the following link: [Road Marker Model on Replicate](https://replicate.com/suket-shubhankar/road_marker_model).
+
 ## Requirements
 
 - **Python Version**: 3.11.5
